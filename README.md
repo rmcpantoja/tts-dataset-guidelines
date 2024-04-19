@@ -2,9 +2,9 @@
 
 1. Introduction
 2. Creation process
-2.1. requirements
-2.2. Selection of sentences
-2.3. Notes for recordings
+  2.1. requirements
+  2.2. Selection of sentences
+  2.3. Notes for recordings
 3. Conclusion
 4. Resources
 
@@ -33,6 +33,6 @@ If these requirements aren't met, you can make as many takes of the recording as
 
 Having this set of recordings ready, it's time to build the corpus. This can have as many formats as possible. Some of these formats may be [LJSpeech](https://keithito.com/LJ-Speech-Dataset/) or `ssml`. The audio format must be uncompressed, the most commonly used is wav in a single channel (mono). The transcript can be created according to the format you have chosen.
 
-## Resources
+## 4. Resources
 
 * [Piper recording studio](https://github.com/rhasspy/piper-recording-studio): Text prompts in many languages.
